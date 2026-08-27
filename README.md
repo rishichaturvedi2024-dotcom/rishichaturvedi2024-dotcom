@@ -1,294 +1,295 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=%F0%9F%8E%AE%20RISHI%20CHATURVEDI&fontSize=38&fontColor=58a6ff&fontAlignY=35&desc=Computer%20Science%20Engineer%20%E2%80%A2%20ML%20/%20AI%20%E2%80%A2%20Full-Stack%20Development&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<a name="start"></a>
+<!-- 1. START SCREEN -->
+<img src="assets/hero-boot.svg" width="100%" alt="System Booting... Player Detected: Rishi Chaturvedi" />
 
-<br>
+<br><br>
 
 <a href="https://rishichaturvedi2024-dotcom.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit_My_Portfolio-1f6feb?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://github.com/rishichaturvedi2024-dotcom">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/rishi-chaturvedi-11aa20316/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
-</a>
-&nbsp;
-<a href="mailto:rishichaturvedi2746@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" />
-</a>
-
-</div>
-
----
-
-<!-- PLAYER PROFILE -->
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                     PLAYER PROFILE                       ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  NAME       ║  Rishi Chaturvedi                          ║
-║  CLASS      ║  Computer Science Engineer                 ║
-║  SPECIALITY ║  ML · AI · Full Stack · Data Science       ║
-║  INSTITUTE  ║  VIT (Vellore Institute of Technology)     ║
-║  CGPA       ║  9.19 / 10                                 ║
-║  STATUS     ║  Building & Learning                       ║
-║  XP         ║  ████████████████░░░░░                     ║
-║  MODE       ║  Learn · Build · Ship · Repeat             ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-## `> cat about.md`
-
-Computer Science undergraduate at **Vellore Institute of Technology** pursuing B.Tech in CSE (IoT) with a **9.19/10 CGPA** (Class of 2028). I work across the stack — from training ML models and building data pipelines to shipping full-stack web applications. My hands-on experience spans **Python, Flask, React, Scikit-learn**, and a growing interest in **agentic AI systems**. Currently focused on predictive analytics, scalable software, and AI-driven solutions. Actively seeking **SDE / ML / Data Science internships**.
-
----
-
-## 🎯 CURRENT QUEST
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                    [ ACTIVE QUESTS ]                     ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  [████████████████░░░░]  Master DSA                      ║
-║  [██████████████░░░░░░]  Build production-grade projects ║
-║  [████████████░░░░░░░░]  Deepen ML / AI knowledge        ║
-║  [██████████░░░░░░░░░░]  Build full-stack applications   ║
-║  [████████░░░░░░░░░░░░]  Explore scalable systems        ║
-║  [██████░░░░░░░░░░░░░░]  Contribute to open source      ║
-║  [████░░░░░░░░░░░░░░░░]  Land a strong internship        ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-## ⚡ TECH STACK
-
-<details open>
-<summary><b>Languages</b></summary>
-<br>
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Machine Learning</b></summary>
-<br>
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-`Regression` `Classification` `Feature Engineering` `Model Evaluation`
-
-</details>
-
-<details open>
-<summary><b>Data Science</b></summary>
-<br>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
-
-`EDA` `Statistical Analysis` `Data Visualization`
-
-</details>
-
-<details open>
-<summary><b>AI / Agentic AI</b></summary>
-<br>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-`LangGraph` `CrewAI` `AutoGen` `RAG` `Ollama` `FAISS`
-
-</details>
-
-<details open>
-<summary><b>Web & Data</b></summary>
-<br>
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-`REST APIs` `SQL`
-
-</details>
-
-<details open>
-<summary><b>Tools</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>Core CS</b></summary>
-<br>
-
-`Data Structures & Algorithms` `OOP` `Operating Systems` `Computer Networks` `DBMS`
-
-</details>
-
----
-
-## 🚀 FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-
-### 📈 Student Performance ML App
-**End-to-end ML web application** for predicting student academic performance using demographic and educational data.
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Flask` `React`
-
-Linear Regression · Random Forest · REST APIs
-Metrics: RMSE · MAE · R²
-
-<a href="https://github.com/rishichaturvedi2024-dotcom/student-performance-ml-app">
-<img src="https://img.shields.io/badge/View_Repo_%E2%86%92-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%">
-
-### 🔗 StableCoin Monitoring System
-**Blockchain analytics platform** for monitoring and validating stablecoin transactions with modular validation pipelines.
-
-`TypeScript` `Blockchain Analytics` `Transaction Processing`
-
-Distributed systems · Validation pipelines · Fault tolerance
-
-<a href="https://github.com/rishichaturvedi2024-dotcom/StableCoinMonitoringSystem">
-<img src="https://img.shields.io/badge/View_Repo_%E2%86%92-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ☀️ Solar Panel Efficiency Optimizer
-**Data analytics platform** for evaluating solar panel efficiency and energy-generation trends.
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Statistical Analysis`
-
-Data cleaning · Preprocessing · Transformation pipelines · Visualization
-
-<a href="https://github.com/rishichaturvedi2024-dotcom/Solar-Panel-Efficiency-Optimizer">
-<img src="https://img.shields.io/badge/View_Repo_%E2%86%92-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%">
-
-### 📊 Stock Market Predictor
-**Stock market prediction system** for analyzing and forecasting market trends.
-
-`Python` `Machine Learning`
-
-<a href="https://github.com/rishichaturvedi2024-dotcom/Stock_Market_Predictor">
-<img src="https://img.shields.io/badge/View_Repo_%E2%86%92-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 MY PORTFOLIO
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                   🌐 PORTFOLIO ONLINE                    ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║   Explore my projects, skills, experience & work.        ║
-║                                                          ║
-║                  [ ENTER PORTFOLIO → ]                   ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-<a href="https://rishichaturvedi2024-dotcom.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_ENTER_PORTFOLIO_%E2%86%92-1f6feb?style=for-the-badge&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/%E2%96%B6_PRESS_START_To_Enter_Portfolio-18181B?style=for-the-badge&logoColor=58a6ff" height="40"/>
 </a>
 
 <br><br>
 
-> **Career Universe** — my career mapped as an explorable universe.
-> Built with modern web technologies and deployed on GitHub Pages.
+<!-- 2. NAVIGATION HUD -->
+```
+╔═════════════════════════════════════════════════════════════════════════════╗
+║   [ #PLAYER ]   [ #SKILLS ]   [ #QUESTS ]   [ #BOSSES ]   [ #STATS ]        ║
+╚═════════════════════════════════════════════════════════════════════════════╝
+```
+<a href="#player"><code>[PLAYER]</code></a> &nbsp;|&nbsp; 
+<a href="#skills"><code>[SKILLS]</code></a> &nbsp;|&nbsp; 
+<a href="#quests"><code>[QUESTS]</code></a> &nbsp;|&nbsp; 
+<a href="#bosses"><code>[BOSSES]</code></a> &nbsp;|&nbsp; 
+<a href="#stats"><code>[STATS]</code></a> 
+
+<img src="assets/divider.svg" width="100%" />
 
 </div>
 
----
+<a name="player"></a>
+### 🎮 PLAYER ENTITY
 
-## 💼 EXPERIENCE
+<details open>
+<summary><b>[ CLICK TO EXPAND PLAYER PROFILE ]</b></summary>
+<br>
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  ADVERTISING STRATEGY & ANALYTICS INTERN                 │
-│  Adfactors Advertising LLP, New Delhi  ·  June 2026     │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  > Collected, cleaned & analyzed campaign, influencer,   │
-│    retailer and audience datasets                        │
-│  > Evaluated influencer performance — engagement rate,   │
-│    reach, impressions, demographics, follower growth,    │
-│    campaign ROI                                          │
-│  > Monitored CTR, CPC, CPA, CVR and ROAS metrics        │
-│  > Supported ML-driven audience segmentation and         │
-│    predictive analytics                                  │
-│  > Developed analytical reports and dashboards           │
-│  > Collaborated with cross-functional teams              │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║ RISHI CHATURVEDI                                            [ LVL 20 ] ║
+╠════════════════════════════════════════════════════════════════════╣
+║ CLASS      ║ Computer Science Engineer (IoT)                       ║
+║ GUILD      ║ Vellore Institute of Technology                       ║
+║ RANK       ║ 9.19 / 10 CGPA (Class of 2028)                        ║
+║ SPECIALTY  ║ ML • AI • Full Stack                                  ║
+║ STATUS     ║ ONLINE ●                                              ║
+║ MISSION    ║ Build → Break → Learn → Ship                          ║
+║ XP         ║ ████████████████░░░░░                                 ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
----
+> **Lore:** A Computer Science undergraduate exploring the intersection of machine learning, scalable data systems, and agentic AI. Currently seeking an internship to test skills in a high-stakes environment.
 
-## 🏆 CERTIFICATION
+</details>
 
-| Certification | Issuer | Technologies |
-|:---|:---|:---|
-| **IBM Agentic AI** | IBM | LangChain · LangGraph · CrewAI · AutoGen · RAG · MCP · A2A |
+<br>
 
-<a href="#">`[View Certificate]`</a> — *link placeholder*
+<a name="skills"></a>
+### 📈 CHARACTER STATS
 
----
+```text
+╔════════════════════════════════════════════╗
+║ ATTRIBUTES                                 ║
+╠════════════════════════════════════════════╣
+║ Python       █████████████████░░           ║
+║ C++          ████████████████░░            ║
+║ Machine L.   ███████████████░░░            ║
+║ AI Systems   ██████████████░░░░            ║
+║ Full Stack   █████████████░░░░░            ║
+║ DSA          ████████████░░░░░             ║
+╚════════════════════════════════════════════╝
+```
+*(Aesthetic representation of current focus areas)*
 
-## 📊 GITHUB STATS
+<br>
+
+### 🌳 SKILL TREE
+
+<details>
+<summary><b>▼ [ AI / ML BRANCH ]</b></summary>
+<br>
+
+`Scikit-learn` `PyTorch` `LangChain` `LangGraph` `CrewAI` `AutoGen` `RAG` `Ollama` `FAISS`
+> *Unlocked: Predictive Analytics, Agentic Workflows, Neural Networks*
+
+</details>
+
+<details>
+<summary><b>▼ [ WEB & DATA BRANCH ]</b></summary>
+<br>
+
+`Flask` `React` `REST APIs` `Pandas` `NumPy` `Matplotlib` `MySQL` `MongoDB`
+> *Unlocked: Full-Stack Architectures, Data Visualization, Statistical Analysis*
+
+</details>
+
+<details>
+<summary><b>▼ [ CORE CS BRANCH ]</b></summary>
+<br>
+
+`Python` `C++` `Java` `JavaScript` `TypeScript` `DSA` `OOP` `OS` `DBMS`
+> *Unlocked: Algorithmic Problem Solving, Memory Management, System Design*
+
+</details>
+
+<br>
+
+### 🎒 INVENTORY
+
+```text
+┌───────────────────────────────────────────────┐
+│ ⚔ WEAPONS (Languages)                         │
+│ C++ • Python • Java • JavaScript • TypeScript │
+│                                               │
+│ 🧠 ARTIFACTS (Frameworks & Libraries)         │
+│ PyTorch • Scikit-learn • LangChain • RAG      │
+│                                               │
+│ 🛠 TOOLS (Environment)                        │
+│ Git • Docker • Linux • VS Code • Postman      │
+│                                               │
+│ 🗄 STORAGE (Databases)                        │
+│ MySQL • MongoDB                               │
+└───────────────────────────────────────────────┘
+```
+
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+<a name="quests"></a>
+### 📋 QUEST BOARD
+
+<details>
+<summary><b>🟢 MAIN QUESTS</b></summary>
+
+- [x] Gain core software engineering fundamentals
+- [x] Build full-stack machine learning applications
+- [ ] Master Data Structures & Algorithms
+- [ ] Understand large-scale systems deeply
+
+</details>
+
+<details>
+<summary><b>🟡 SIDE QUESTS</b></summary>
+
+- [x] Explore Agentic AI workflows
+- [ ] Contribute to major Open Source projects
+- [ ] Participate in global hackathons
+
+</details>
+
+<details open>
+<summary><b>🔴 BOSS QUEST</b></summary>
+
+- [ ] **Secure a strong SDE / ML / Data Science internship for 2027**
+
+</details>
+
+<br>
+
+### 🏆 ACHIEVEMENT DATABASE
+
+<details>
+<summary><b>[✓] IBM AGENTIC AI CERTIFIED</b></summary>
+> Certified in building intelligent agentic workflows using LangChain, LangGraph, CrewAI, AutoGen, and RAG.
+</details>
+
+<details>
+<summary><b>[✓] INDUSTRY EXPERIENCE: ADFACTORS LLP</b></summary>
+> Advertising Strategy & Analytics Intern (June 2026). Handled campaign datasets, influencer performance metrics, predictive analytics, and ML-driven audience segmentation.
+</details>
+
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+<a name="bosses"></a>
+### ⚔ BOSS BATTLES (PROJECTS)
+
+<details>
+<summary><b>⚔ BOSS #01 — STUDENT PERFORMANCE ML APP</b></summary>
+<br>
+
+```text
+╔════════════════════════════════════════════════════════╗
+║ 🤖 ENCOUNTER: STUDENT PERFORMANCE PREDICTOR          ║
+╠════════════════════════════════════════════════════════╣
+║ TYPE   : MACHINE LEARNING                              ║
+║ THREAT : PREDICTIVE ANALYTICS                          ║
+║                                                        ║
+║ ABILITIES                                              ║
+║ → Linear Regression & Random Forest                    ║
+║ → Feature Engineering                                  ║
+║ → REST API Integration                                 ║
+║                                                        ║
+║ LOADOUT                                                ║
+║ Python • Flask • React • Scikit-learn • Pandas         ║
+╚════════════════════════════════════════════════════════╝
+```
+<a href="https://github.com/rishichaturvedi2024-dotcom/student-performance-ml-app"><img src="https://img.shields.io/badge/%F0%9F%A5%8A_FIGHT_BOSS_%E2%86%92-18181B?style=for-the-badge&logo=github" /></a>
+
+</details>
+
+<details>
+<summary><b>⚔ BOSS #02 — STABLECOIN MONITORING SYSTEM</b></summary>
+<br>
+
+```text
+╔════════════════════════════════════════════════════════╗
+║ 🔗 ENCOUNTER: STABLECOIN MONITOR                     ║
+╠════════════════════════════════════════════════════════╣
+║ TYPE   : BLOCKCHAIN ANALYTICS                          ║
+║ THREAT : DISTRIBUTED TRANSACTIONS                      ║
+║                                                        ║
+║ ABILITIES                                              ║
+║ → Scalable Monitoring Workflows                        ║
+║ → Modular Validation Pipelines                         ║
+║ → Fault Tolerance                                      ║
+║                                                        ║
+║ LOADOUT                                                ║
+║ TypeScript • Blockchain APIs • Distributed Systems     ║
+╚════════════════════════════════════════════════════════╝
+```
+<a href="https://github.com/rishichaturvedi2024-dotcom/StableCoinMonitoringSystem"><img src="https://img.shields.io/badge/%F0%9F%A5%8A_FIGHT_BOSS_%E2%86%92-18181B?style=for-the-badge&logo=github" /></a>
+
+</details>
+
+<details>
+<summary><b>⚔ BOSS #03 — SOLAR PANEL EFFICIENCY OPTIMIZER</b></summary>
+<br>
+
+```text
+╔════════════════════════════════════════════════════════╗
+║ ☀️ ENCOUNTER: SOLAR ENERGY OPTIMIZER                   ║
+╠════════════════════════════════════════════════════════╣
+║ TYPE   : DATA ANALYTICS                                ║
+║ THREAT : STATISTICAL ANALYSIS                          ║
+║                                                        ║
+║ ABILITIES                                              ║
+║ → Data Cleaning & Preprocessing                        ║
+║ → Transformation Pipelines                             ║
+║ → Performance Dashboards                               ║
+║                                                        ║
+║ LOADOUT                                                ║
+║ Python • Pandas • NumPy • Matplotlib                   ║
+╚════════════════════════════════════════════════════════╝
+```
+<a href="https://github.com/rishichaturvedi2024-dotcom/Solar-Panel-Efficiency-Optimizer"><img src="https://img.shields.io/badge/%F0%9F%A5%8A_FIGHT_BOSS_%E2%86%92-18181B?style=for-the-badge&logo=github" /></a>
+
+</details>
+
+<details>
+<summary><b>⚔ BOSS #04 — STOCK MARKET PREDICTOR</b></summary>
+<br>
+
+```text
+╔════════════════════════════════════════════════════════╗
+║ 📊 ENCOUNTER: MARKET FORECASTER                      ║
+╠════════════════════════════════════════════════════════╣
+║ TYPE   : MACHINE LEARNING                              ║
+║ THREAT : TIME-SERIES ANALYSIS                          ║
+║                                                        ║
+║ LOADOUT                                                ║
+║ Python • Machine Learning                              ║
+╚════════════════════════════════════════════════════════╝
+```
+<a href="https://github.com/rishichaturvedi2024-dotcom/Stock_Market_Predictor"><img src="https://img.shields.io/badge/%F0%9F%A5%8A_FIGHT_BOSS_%E2%86%92-18181B?style=for-the-badge&logo=github" /></a>
+
+</details>
+
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+<a name="stats"></a>
+### 💻 TERMINAL
+
+```bash
+╭────────────────────────────────────────────────╮
+│ rishi@github:~$                                │
+│                                                │
+│ $ whoami                                       │
+│ rishi@developer                                │
+│                                                │
+│ $ focus                                        │
+│ ML + AI + Full Stack                           │
+│                                                │
+│ $ status                                       │
+│ ONLINE ●                                       │
+│                                                │
+│ $ mission                                      │
+│ Build → Break → Learn → Ship                   │
+│                                                │
+│ $ █                                            │
+╰────────────────────────────────────────────────╯
+```
+
+### 📊 PLAYER ANALYTICS
 
 <div align="center">
 
@@ -299,14 +300,7 @@ Data cleaning · Preprocessing · Transformation pipelines · Visualization
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishichaturvedi2024-dotcom&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="60%" />
 
-</div>
-
----
-
-## 🐍 CONTRIBUTION GRAPH
-
-<div align="center">
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishichaturvedi2024-dotcom/rishichaturvedi2024-dotcom/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishichaturvedi2024-dotcom/rishichaturvedi2024-dotcom/output/github-contribution-grid-snake.svg" />
@@ -315,72 +309,64 @@ Data cleaning · Preprocessing · Transformation pipelines · Visualization
 
 </div>
 
----
+<br>
 
-## 💻 TERMINAL
+<details>
+<summary><b>🔒 ACCESS SECRET TERMINAL</b></summary>
+<br>
 
-```bash
-rishi@dev:~$ whoami
-Rishi Chaturvedi — CS Engineer, VIT
+```text
+ACCESS GRANTED. You found the hidden room.
 
-rishi@dev:~$ echo $FOCUS
-ML + AI + Full Stack
+> Build things.
+> Break things.
+> Learn why they broke.
+> Build them better.
 
-rishi@dev:~$ cat mission.txt
-Build useful things.
-Understand how they work.
-Keep getting better.
-
-rishi@dev:~$ systemctl status rishi
-● rishi.service - developer
-   Active: active (running)
-   Since: 2024
-
-rishi@dev:~$ next --ship
+END TRANSMISSION.
 ```
 
----
+</details>
 
-## 🗺 2026 ROADMAP
-
-```
-  ✓  Build ML applications
-  ✓  Explore AI systems
-  ✓  Gain industry experience
-  →  Improve DSA
-  →  Build larger full-stack systems
-  →  Explore open source
-  →  Land a strong internship
-```
-
----
-
-## 📫 CONNECT
+<br>
 
 <div align="center">
+<img src="assets/divider.svg" width="100%" />
+
+<br><br>
+
+### ⚔ FINAL BOSS
+**THE NEXT LEVEL AWAITS**
+
+<br>
 
 <a href="https://rishichaturvedi2024-dotcom.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-rishichaturvedi-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_ENTER_FULL_PORTFOLIO-1f6feb?style=for-the-badge&logoColor=white" height="50"/>
 </a>
-&nbsp;
+<br><br>
 <a href="https://github.com/rishichaturvedi2024-dotcom">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB_GitHub-rishichaturvedi2024--dotcom-0d1117?style=flat-square&logo=github&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB_GITHUB-0d1117?style=flat-square&logo=github&logoColor=58a6ff" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/rishi-chaturvedi-11aa20316/">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" />
 </a>
 &nbsp;
 <a href="mailto:rishichaturvedi2746@gmail.com">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-rishichaturvedi2746-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7_EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff" />
 </a>
 
 <br><br>
 
-**Let's build something interesting.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%"/>
+```
+╔═════════════════════════════════════════════════════════════════════════════╗
+║   [ #START ]    [ #PLAYER ]    [ #SKILLS ]    [ #QUESTS ]    [ #BOSSES ]    ║
+╚═════════════════════════════════════════════════════════════════════════════╝
+```
+<a href="#start"><code>[START]</code></a> &nbsp;|&nbsp; 
+<a href="#player"><code>[PLAYER]</code></a> &nbsp;|&nbsp; 
+<a href="#skills"><code>[SKILLS]</code></a> &nbsp;|&nbsp; 
+<a href="#quests"><code>[QUESTS]</code></a> &nbsp;|&nbsp; 
+<a href="#bosses"><code>[BOSSES]</code></a> 
 
 </div>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <style>
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      @keyframes type { from { width: 0; } to { width: 100%; } }
+      @keyframes show { from { opacity: 0; } to { opacity: 1; } }
+      
+      .text {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 16px;
+        fill: #58a6ff;
+        opacity: 0;
+      }
+      
+      .l1 { animation: show 0.1s forwards 0.5s; }
+      .l2 { animation: show 0.1s forwards 1.0s; }
+      .l3 { animation: show 0.1s forwards 1.5s; }
+      .l4 { animation: show 0.1s forwards 2.5s; fill: #56d364; font-weight: bold; }
+      .l5 { animation: show 0.1s forwards 3.0s; font-size: 24px; fill: #fff; font-weight: bold;}
+      
+      .cursor {
+        animation: blink 1s step-end infinite;
+        fill: #58a6ff;
+      }
+    </style>
+  </defs>
+
+  <rect width="800" height="200" fill="#0d1117" rx="8"/>
+  
+  <!-- Border -->
+  <rect x="5" y="5" width="790" height="190" fill="none" stroke="#30363d" stroke-width="2" rx="4"/>
+  
+  <text x="30" y="40" class="text l1">> INIT SYSTEM</text>
+  <text x="30" y="65" class="text l2">> MOUNTING MODULES... OK</text>
+  <text x="30" y="90" class="text l3">> SCANNING FOR PLAYER ENTITY... [ ████████████████████ ] 100%</text>
+  
+  <text x="30" y="130" class="text l4">> PLAYER DETECTED.</text>
+  
+  <text x="30" y="165" class="text l5">RISHI CHATURVEDI <tspan class="cursor">█</tspan></text>
+</svg>
